@@ -1,0 +1,3 @@
+Diterapkannya microservice bertujuan untuk menyederhanakan suatu proses dalam aplikasi , selain itu juga 
+mempermudah dalam proses maintenance karena sudah dipecah menjadi berbagai layanan, dan juga akan mengoptimalkan
+penggunaan aplikasi karena telah di scale secara indipendent.

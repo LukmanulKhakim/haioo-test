@@ -1,0 +1,2 @@
+Script yang ada digunakan untuk proses build program ke dalam bentuk docker images yang nantinya akan
+dijalankan di conttainer docker, script tersebut biasa disebut dengan dockerfile.
